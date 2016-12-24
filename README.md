@@ -6,7 +6,7 @@
 
 *test* **test** ~~test~~ ***test***
 
-\`single line code \`
+// code
 
 ```
 multiple line code
