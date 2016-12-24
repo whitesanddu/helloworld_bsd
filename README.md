@@ -4,3 +4,13 @@
 
 - markdown samples
 
+*test* **test** ~~test~~ ***test***
+
+\`single line code \`
+
+```
+multiple line code
+multiple line code
+```
+
+
